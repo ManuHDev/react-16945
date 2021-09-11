@@ -3,7 +3,7 @@ import './navbar.css'
 
 function NavBar() {
     return (
-        <header>
+        <header className="encabezado">
             <h1>Logo</h1>
             <nav>
                 <a href="#">Enlace1</a>
